@@ -63,9 +63,9 @@ h4 {
   font-size: 155%;
 }
 
-/* make the first letter big to guide the eye */
+/* make the first letter slightly bigger to guide the eye */
 .big-letter {
-  font-size: 144%;
+  font-size: 111%;
 }
 
 /* set spacing and color of horizontal divider lines in the dropdowns*/
@@ -98,8 +98,10 @@ hr {
 .btn-default:active,
 .btn-default:focus {
   color: #000000 !important;
+  /*green choice: */
   background-color: #DCF2E4 !important;
   border-color: #DCF2E4 !important;
+  
 }
 
 .btn-primary,
@@ -107,8 +109,14 @@ hr {
 .btn-primary:active,
 .btn-primary:focus {
   color: #000000 !important;
+
+ /* brown choice
   background-color: #DEC8B6 !important;
   border-color: #DEC8B6 !important;
+  */
+  /* green choice:*/
+  background-color: #DCF2E4 !important;
+  border-color: #DCF2E4 !important;
 }
 
 .btn-success,
@@ -116,8 +124,15 @@ hr {
 .btn-success:active,
 .btn-success:focus {
   color: #000000 !important;
+
+
+ /* white choice
   background-color: #F5F3E6 !important;
   border-color: #F5F3E6 !important;
+*/
+/* green choice:*/
+  background-color: #DCF2E4 !important;
+  border-color: #DCF2E4 !important;
 }
 
 .btn-danger,
@@ -125,8 +140,13 @@ hr {
 .btn-danger:active,
 .btn-danger:focus {
   color: #000000 !important;
+   /* pink choice
   background-color: #F7D9D7 !important;
   border-color: #F7D9D7 !important;
+  /* green choice:*/
+  background-color: #DCF2E4 !important;
+  border-color: #DCF2E4 !important;
+  */
 }
 
 .btn-warning,
@@ -134,8 +154,13 @@ hr {
 .btn-warning:active,
 .btn-warning:focus {
   color: #000000 !important;
+  /* yellow choice
   background-color: #EAED98 !important;
   border-color: #EAED98 !important;
+  */  
+  /* green choice:*/
+  background-color: #DCF2E4 !important;
+  border-color: #DCF2E4 !important;
 }
 
 .btn-info,
@@ -143,8 +168,13 @@ hr {
 .btn-info:active,
 .btn-info:focus {
   color: #000000 !important;
+  /* blue choice
   background-color: #AFCDF0 !important;
-  border-color: #v !important;
+  border-color: #AFCDF0 !important;
+  */
+  /* green choice:*/
+  background-color: #DCF2E4 !important;
+  border-color: #DCF2E4 !important;
 }
 
 .btn {
